@@ -1,5 +1,3 @@
 # dotenv-micro
 
-[![Build Status](https://travis-ci.org/githubuser/dotenv-micro.png)](https://travis-ci.org/githubuser/dotenv-micro)
-
-TODO Description.
+Tiny `.env` library for handling secret strings as config variables, similar in behaviour to Python's [`python-dotenv`](https://pypi.org/project/python-dotenv/).

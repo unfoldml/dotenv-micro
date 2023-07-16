@@ -1,5 +1,5 @@
 name:                dotenv-micro
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Tiny dotenv library
 description:         Loading secrets and confidential configuration values is a software architectural practice. This library enables that with a tiny dependency footprint.
 homepage:            https://github.com/unfoldml/dotenv-micro
